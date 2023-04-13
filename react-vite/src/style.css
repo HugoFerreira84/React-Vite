@@ -1,0 +1,19 @@
+.d-flex{
+    display: flex;
+    gap: 20px;
+}
+
+.red{
+    padding: 15px;
+    background-color: red;
+}
+
+.green{
+    padding: 15px;
+    background-color: green;
+}
+
+.blue{
+    padding: 15px;
+    background-color: red;
+}
